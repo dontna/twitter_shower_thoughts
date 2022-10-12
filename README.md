@@ -18,3 +18,8 @@ and replace all of the <code>userfield.send_keys("username here")</code> and <co
 
 <h2>Contributing</h2>
 I will not be updating this repository as it was just a little test project I did for fun. If you would like to add/remove things, please feel free.
+
+# Forking My Projects?
+
+All of my projects you can fork and utilise the code however you want. You don't need to give me credit, but can do if you would like.
+
